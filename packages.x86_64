@@ -136,12 +136,12 @@ zsh
 #linux
 
 ##The Linux ZEN kernel and modules fast & stable
-linux-zen
-linux-zen-headers
+#linux-zen
+#linux-zen-headers
 
 ##The LTS Linux kernel and modules
-#linux-lts
-#linux-lts-headers
+linux-lts
+linux-lts-headers
 
 ###The Security-Hardened Linux kernel and modules
 #linux-hardened
